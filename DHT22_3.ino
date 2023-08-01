@@ -3,6 +3,8 @@
    pour ensuite afficher ces valeurs
    sur l'écran LCD */
 
+// New comment
+
 //Libraries
 //#include <
 #include <DHT.h>            // Ajout de la librairie pour le capteur Temperature et Humidité DHT22
